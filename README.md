@@ -1,6 +1,6 @@
 Frota
 =====
-
+This will contain tests for random mechanics that be included in pudgewars
 
 ###D2Ware Servers###
  - You can play this on D2Ware servers here: http://d2ware.net
