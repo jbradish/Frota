@@ -39,21 +39,7 @@ loadModule('frota')        -- Main frota framework
 loadModule('gamemodes')    -- Gamemode framework and small gamemodes/addons
 
 -- Include gamemodes
-loadModule('gamemodes/ctftheflag')
-loadModule('gamemodes/dorh')
-loadModule('gamemodes/invokerwars')
-loadModule('gamemodes/kaolinwars')
-loadModule('gamemodes/kotolofthehill')
-loadModule('gamemodes/kunkkawars')
-loadModule('gamemodes/oddball')
-loadModule('gamemodes/plage')
-loadModule('gamemodes/puckwars')
-loadModule('gamemodes/rvs')
---loadModule('gamemodes/sunstrikewars')
-loadModule('gamemodes/survival')
-loadModule('gamemodes/tinywars')
---loadModule('gamemodes/warlocks')
---loadModule('gamemodes/towerdefence')
+loadModule('gamemodes/pudgewars')
 
 -- Include addons
 loadModule('addons/fatometer')
